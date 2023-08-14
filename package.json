@@ -35,5 +35,8 @@
     "react-toastify": "^9.1.3",
     "slugify": "^1.6.6",
     "vercel.json": "^0.1.0"
+  },
+  "engines": {
+    "node": ">=14.20.1"
   }
 }
